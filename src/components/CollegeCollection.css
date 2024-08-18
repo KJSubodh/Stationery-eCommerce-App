@@ -1,0 +1,99 @@
+/* College Collection Container Styling */
+.college-collection-container {
+  position: relative;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.345); /* Slightly translucent white background */
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Enhanced shadow for depth */
+  max-width: 1200px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+/* Header Styling */
+.college-collection-container h2 {
+  color: #333;
+  font-size: 32px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  padding-bottom: 5px;
+}
+
+/* Grid Layout for College Collection */
+.college-collection-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid */
+  grid-gap: 20px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+/* Individual College Collection Item Styling */
+.college-collection-item {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.college-collection-item:hover {
+  transform: translateY(-5px); /* Lift effect on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* Enhanced shadow on hover */
+}
+
+/* College Collection Image Styling */
+.college-collection-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover; /* Ensure the image covers the area without distortion */
+  border-radius: 8px;
+  margin-bottom: 10px; /* Space between image and text */
+}
+
+/* College Collection Title Styling */
+.college-collection-title {
+  font-size: 20px;
+  margin-top: 10px;
+  color: #333;
+}
+
+/* College Collection Description Styling */
+.college-collection-description {
+  font-size: 15px;
+  color: #666;
+  margin-top: 5px;
+}
+
+/* College Collection Price Styling */
+.college-collection-price {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 10px;
+  color: #333;
+}
+
+/* Button Styling for College Collection Items */
+.college-collection-button {
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.college-collection-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.college-collection-button:active {
+  background-color: #004494;
+  transform: scale(1);
+}

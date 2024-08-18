@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Kangaro Desk Essentials HP-45 All Metal Stapler",
+    "description": "| Standard Stapler with Quick Loading Mechanism | Sturdy & Durable for Long Time Use |",
+    "price": "₹293",
+    "image": "/images/stapler1.jpg"
+  },
+  {
+    "name": "Kangaro Mini-10 Stapler",
+    "description": "Stapling Capacity: 50 Staples, Size: 28 X 62 Mm (b X D)",
+    "price": "₹45",
+    "image": "/images/stapler2.jpg"
+  },
+  {
+    "name": "Pidilite Fevistik Super Glue Stick ",
+    "description": "Non-Toxic Transparent Adhesive 15GM - Pack of 5",
+    "price": "₹170",
+    "image": "/images/gluestick1.jpg"
+  }
+]

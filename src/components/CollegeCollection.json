@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Casio FX-991CW Classwiz Scientific Calculator",
+      "description": "Non-Programmable Scientific Calculator",
+      "price": "₹1545",
+      "image": "/images/scientific_calculator1.jpg"
+    },
+    {
+      "name": "Scholar Plus Geometry Box",
+      "description": "CComplete set of Hi Precision Geomteric Instruments for advance users",
+      "price": "₹200",
+      "image": "/images/geometrybox1.jpg"
+    },
+    {
+      "name": "Naygt Magnetic 3x4 feet Whiteboards",
+      "description": "Magnetic | 48x36 Inches",
+      "price": "₹400",
+      "image": "/images/whiteboard1.jpg"
+    }
+  ]
+  

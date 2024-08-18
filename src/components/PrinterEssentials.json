@@ -1,0 +1,27 @@
+[
+    {
+      "name": "HP 682 Black Original Ink Advantage Cartridge",
+      "description": "Compatible ink cartridges for various printer models.",
+      "price": "₹895",
+      "image": "/images/ink_cartridges1.jpg"
+    },
+    {
+      "name": "JK Copier Paper - A3",
+      "description": "500 Sheets, 75 GSM, 1 Ream",
+      "price": "750",
+      "image": "/images/a3_paper1.jpg"
+    },
+    {
+      "name": "JK Copier Paper 75GSM A4",
+      "description": "Premium Multipurpose Office Paper",
+      "price": "₹380",
+      "image": "/images/printer_a4paper1.jpg"
+    },
+    {
+      "name": "HP 680 Tri-color Original Ink Advantage Cartridge",
+      "description": "Tri-color | 150 pages yield | Dye-based ink cartridge",
+      "price": "₹850",
+      "image": "/images/color_printerink1.jpg"
+    }
+  ]
+  

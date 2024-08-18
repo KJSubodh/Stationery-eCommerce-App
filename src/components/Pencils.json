@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Faber-Castell Graphite Sketch Pencil Set with Sharpener & Eraser",
+      "description": "High-quality graphite pencils suitable for detailed drawings and writing.",
+      "price": "₹300",
+      "image": "/images/graphite_pencils1.jpg"
+    },
+    {
+      "name": "Faber-Castell 48 Triangular Colour Pencils",
+      "description": "Grip Type TRIANGULAR",
+      "price": "₹375",
+      "image": "/images/colored_pencils1.jpg"
+    },
+    {
+      "name": "BRUSTRO Mechanical Pencil Set",
+      "description": "| HB-20 leads, 2B-20 leads,Spare eraser 8 units|Tip size 0.7 mm |",
+      "price": "₹188",
+      "image": "/images/mechanical_pencils1.jpg"
+    },
+    {
+      "name": "Apsara Non Dust Erasers - Pack of 20",
+      "description": "Erasers for general use.",
+      "price": "₹60",
+      "image": "/images/erasers1.jpg"
+    }
+  ]
+  

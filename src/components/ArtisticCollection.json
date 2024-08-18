@@ -1,0 +1,26 @@
+[
+  {
+    "name": "KTC Kokuyo Acrylic Color Box",
+    "description": "9ml Tubes, 12 Shades",
+    "price": "₹425",
+    "image": "/images/acrylic1.jpg"
+  },
+  {
+    "name": "BRUSTRO Artists ’ Watercolour Paint Set ",
+    "description": "24 Colours X 12ML Tubes",
+    "price": "₹897",
+    "image": "/images/watercolors1.jpg"
+  },
+  {
+    "name": "Ohuhu Oil Paint Set Oil Paint Tubes ",
+    "description": "Oil-based 24 Colors | 24 Tubes 12 ml each, Multicolour",
+    "price": "₹868",
+    "image": "/images/oil_paints1.jpg"
+  },
+  {
+    "name": "Faber Castell 50 Oil Pastels",
+    "description": "Oil-based pastel crayons.",
+    "price": "₹210",
+    "image": "/images/oil_pastels1.jpg"
+  }
+]

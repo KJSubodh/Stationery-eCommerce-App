@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Classmate Pulse 6 Subject Spiral Notebook",
+      "description": "Pack of 1 | Unruled | 300 Pages | A4-29.7cm x 21.0cm",
+      "price": "₹169",
+      "image": "/images/classmate1.jpg"
+    },
+    {
+      "name": "Classmate Notebook",
+      "description": "Single Line, Spiral Binding, 240Mm X 180Mm, 200 Pages",
+      "price": "₹92",
+      "image": "/images/classmate2.jpg"
+    },
+    {
+        "name": "Luxor 5 Subject Notebook",
+        "description": "| 70 gsm Paper | Single Ruled | Pages - 300 | Count - 1 | 14 x 21.6 CM | Spiral Binding |",
+        "price": "₹171",
+        "image": "/images/luxor1.jpg"
+    },
+    {
+        "name": "Paperkraft Expression 5 Subject",
+        "description": "| Hard Cover Notebook | 18.2 cm x 24.3 cm | Single Line | 400 Pages",
+        "price": "₹213",
+        "image": "/images/paperkraft1.jpg"
+    },
+    {
+        "name": "Navneet Youva YOUVA Case Bound Office Note Book Journal With Magnetic Cover",
+        "description": "| A5 Size-14.8 Cm x 21 Cm|Single Line|192 Pages ",
+        "price": "₹129",
+        "image": "/images/youva1.jpg"
+    },
+    {
+        "name": "Family Store B6 Size Diary",
+        "description": "60 Pages with Pen and Sticky Notes (Red) (cardboard, Rectangular)",
+        "price": "₹130",
+        "image": "/images/diary1.jpg"
+    }
+  ]
+  

@@ -1,0 +1,251 @@
+/* Notebooks Container Styling */
+.notebooks-container {
+  position: relative;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.345); /* Slightly translucent white background */
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Enhanced shadow for depth */
+  max-width: 1200px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+/* Header Styling */
+.notebooks-container h2 {
+  color: #333;
+  font-size: 32px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  padding-bottom: 5px;
+}
+
+/* Grid Layout for Notebooks */
+.notebooks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid */
+  grid-gap: 20px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+/* Individual Notebook Item Styling */
+.notebooks-item {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.notebooks-item:hover {
+  transform: translateY(-5px); /* Lift effect on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* Enhanced shadow on hover */
+}
+
+/* Notebook Image Styling */
+.notebooks-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Notebook Title Styling */
+.notebooks-title {
+  font-size: 20px;
+  margin-top: 10px;
+  color: #333;
+}
+
+/* Notebook Description Styling */
+.notebooks-description {
+  font-size: 15px;
+  color: #666;
+  margin-top: 5px;
+}
+
+/* Notebook Price Styling */
+.notebooks-price {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 10px;
+  color: #333;
+}
+
+/* Button Styling for Notebook Items */
+.notebooks-button {
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.notebooks-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.notebooks-button:active {
+  background-color: #004494;
+  transform: scale(1);
+}
+
+/* Customer Details Form Styling */
+.customer-details-form {
+  margin-top: 30px;
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.customer-details-form h4 {
+  color: #333;
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.customer-details-form input {
+  display: block;
+  width: calc(100% - 22px); /* Adjust width for padding and border */
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* Proceed to Checkout Button */
+.customer-details-form button {
+  background-color: #28a745;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 12px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 20px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.customer-details-form button:hover {
+  background-color: #218838;
+  transform: scale(1.05);
+}
+
+.customer-details-form button:active {
+  background-color: #1e7e34;
+  transform: scale(1);
+}
+
+/* Cart Summary Styling */
+.cart-summary {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: rgba(240, 240, 240, 0.95);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.cart-summary h3 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.cart-summary ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.cart-summary li {
+  font-size: 16px;
+  color: #333;
+  margin: 10px 0;
+}
+
+.cart-summary h4 {
+  font-size: 20px;
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 10px;
+  border-top: 2px solid #e0e0e0;
+}
+
+/* Remove Button for Cart Items */
+.remove-button {
+  background-color: #dc3545;
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.remove-button:hover {
+  background-color: #c82333;
+}
+
+/* Toggle Cart Button */
+.toggle-cart-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-cart-button:hover {
+  background-color: #0056b3;
+}
+
+/* Proceed to Checkout Button */
+.proceed-button {
+  background-color: #28a745;
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  display: block;
+  margin: 20px auto;
+  max-width: 250px;
+}
+
+.proceed-button:hover {
+  background-color: #218838;
+  transform: scale(1.05);
+}
+
+.proceed-button:active {
+  background-color: #1e7e34;
+  transform: scale(1);
+}

@@ -9,6 +9,7 @@ Shopping Cart: Add, remove, or update the quantity of items in the cart.
 Checkout and Invoice: Upon checkout, an invoice is generated with a summary of selected items, total cost, and a payment option (for demonstration purposes).
 Print/Download Invoice: The final invoice can be printed or downloaded for the user's records.
 Available Scripts
+
 In the project directory, you can run:
 
 npm start
